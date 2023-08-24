@@ -5,9 +5,7 @@
 ## Ferramentas utilizadas:
 
 * HTML
-
 * CSS
-
 * JS
 
 ### Feito por: https://www.linkedin.com/in/ruan-pletsch/
